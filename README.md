@@ -7,5 +7,3 @@ El proyecto fue realizado en equipo y se encuentra dividido en dos repositorios:
 Cliente: https://github.com/Jimaxo2/PPT-Juego-Cliente
 
 Servidor: https://github.com/Jimaxo2/PPT-Juego-Servidor
-
-Tecnologías: C#, System.Net.Http.
