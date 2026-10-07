@@ -1,9 +1,30 @@
 # Piedra, Papel o Tijera - Juego Multijugador
 
-Proyecto final realizado para la materia de Desarrollo 3. Se desarrolló un juego de piedra, papel o tijera para dos jugadores, utilizando C# y la librería System.Net.Http, permitiendo que dos personas se conecten a una sala y puedan jugar entre sí.
+Proyecto final realizado para la materia de Desarrollo 3. Se desarrolló un juego de Piedra, Papel o Tijera para dos jugadores, utilizando una aplicación cliente y una aplicación servidor.
 
-El proyecto fue realizado en equipo y se encuentra dividido en dos repositorios:
+Los jugadores pueden conectarse al servidor, unirse a una sala y jugar entre ellos. El proyecto se encuentra dividido en dos aplicaciones, una correspondiente al cliente y otra al servidor.
 
-Cliente: https://github.com/Jimaxo2/PPT-Juego-Cliente
+El proyecto fue realizado en equipo.
 
-Servidor: https://github.com/Jimaxo2/PPT-Juego-Servidor
+**Tecnologías utilizadas**
+
+C#
+
+System.Net.Http
+
+Estructura del proyecto
+
+**El proyecto está dividido en dos repositorios:**
+
+Cliente: aplicación utilizada por los jugadores para conectarse y participar en el juego.
+Servidor: aplicación encargada de gestionar la conexión y comunicación entre los jugadores.
+
+**Repositorios originales**
+
+Cliente: GitHub - Jimaxo2/PPT-Juego-Cliente
+
+Servidor: GitHub - Jimaxo2/PPT-Juego-Servidor
+
+**Configuración e instalación**
+
+Primero se debe ejecutar el servidor y posteriormente iniciar el cliente para establecer la conexión y comenzar una partida.
