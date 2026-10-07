@@ -12,8 +12,6 @@ C#
 
 System.Net.Http
 
-Estructura del proyecto
-
 **El proyecto está dividido en dos repositorios:**
 
 Cliente: aplicación utilizada por los jugadores para conectarse y participar en el juego.
