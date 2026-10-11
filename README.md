@@ -26,9 +26,9 @@ Servidor: administra las conexiones de los jugadores, coordina las partidas y ut
 
 # Repositorios originales
 
-Cliente: GitHub - Jimaxo2/PPT-Juego-Cliente
+Cliente: [GitHub - Jimaxo2/PPT-Juego-Cliente](https://github.com/Jimaxo2/PPT-Juego-Cliente)
 
-Servidor: GitHub - Jimaxo2/PPT-Juego-Servidor
+Servidor: [GitHub - Jimaxo2/PPT-Juego-Servidor](https://github.com/Jimaxo2/PPT-Juego-Servidor)
 
 # Configuración e instalación
 
